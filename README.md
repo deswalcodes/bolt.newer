@@ -14,7 +14,7 @@ An intelligent and interactive web application that helps developers write, revi
 
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
-- **LLM API**: OpenAI GPT API (can be replaced with any LLM provider)
+- **LLM API**: Anthropic API
 - **Other Tools**: Axios, dotenv
 
 ## 📸 Screenshots
