@@ -8,7 +8,7 @@ An intelligent and interactive web application that helps developers write, revi
 - 🧱 **Code Builder Interface**: Easily input prompts and view generated HTML/CSS/JS code.
 - 🔍 **Live Preview(USP)**: Instantly see how your generated code looks in the browser through Web Containers.
 - 📜 **Prompt History**: Keeps track of your previous prompts for better reference and iteration.
-- ⚙️ **LLM API Integration**: Leverages LLMs (like OpenAI’s GPT) to interpret prompts and generate code dynamically.
+- ⚙️ **LLM API Integration**: Leverages LLMs (Anthropic API) to interpret prompts and generate code dynamically.
 
 ## 🛠️ Tech Stack
 
