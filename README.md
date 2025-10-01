@@ -6,7 +6,7 @@ An intelligent and interactive web application that helps developers write, revi
 
 - 🗣️ **Natural Language to Code**: Use plain English to describe what you want—HTML components, styles, layouts, etc.—and generate working code.
 - 🧱 **Code Builder Interface**: Easily input prompts and view generated HTML/CSS/JS code.
-- 🔍 **Live Preview**: Instantly see how your generated code looks in the browser.
+- 🔍 **Live Preview(USP)**: Instantly see how your generated code looks in the browser through Web Containers.
 - 📜 **Prompt History**: Keeps track of your previous prompts for better reference and iteration.
 - ⚙️ **LLM API Integration**: Leverages LLMs (like OpenAI’s GPT) to interpret prompts and generate code dynamically.
 
@@ -15,7 +15,7 @@ An intelligent and interactive web application that helps developers write, revi
 - **Frontend**: React, Tailwind CSS
 - **Backend**: Node.js, Express
 - **LLM API**: Anthropic API
-- **Other Tools**: Axios, dotenv
+- **Other Tools**: Axios, dotenv,Web Containers
 
 ## 📸 Screenshots
 
